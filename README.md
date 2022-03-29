@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- Working on **[ProZone- Project Guidance App]**
+
 
 - Currently learning **Web Development** and **Java Programming.**
 
