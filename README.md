@@ -8,7 +8,7 @@
 
 
 
-- Currently learning **Web Development** and **Java Programming.**
+- Currently learning **Web Development** and **Data Structure and Algorithm in Java.**
 
 - Eagerly looking to collaborate on **OpenSource Projects**
 
