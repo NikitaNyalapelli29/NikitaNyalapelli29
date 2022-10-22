@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nikita Nyalapelli</h1>
 
-<p>I love coding because it really excites me, it is fun to do. It excites me because whenever I come across a problem, I get curious about solving it.
+<p>I love coding because it really excites me. It excites me because whenever I come across a problem, I get curious about solving it.  it is fun to do
 
 ## 🙋‍♂️ About Me
 
