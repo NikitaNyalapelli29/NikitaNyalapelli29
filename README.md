@@ -70,7 +70,7 @@ ____
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 <p align="left">
 
-<a href = "[https://www.linkedin.com/in/nyalapelli-nikita-972755233](https://www.linkedin.com/in/nikita-nyalapelli-972755233/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/nyalapelli-nikita-972755233"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <a href = "https://www.instagram.com/nikki__2905/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
