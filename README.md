@@ -8,9 +8,9 @@
 
 
 
-- Currently learning **Web Development** and **Data Structure and Algorithm in Java.**
+- Currently learning **Data Structure and Algorithm in Java.**
 
-- Eagerly looking to collaborate on **OpenSource Projects**
+- Eagerly looking to collaborate on **Frontend Projects**
 
 - Reach me here: **nikitanyalapelli2906@gmail.com**
 
